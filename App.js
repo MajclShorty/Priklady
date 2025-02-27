@@ -25,7 +25,7 @@ const navigator = createStackNavigator(
   {
     initialRouteName: 'Home',
     defaultNavigationOptions: {
-      title: 'Meow',
+      title: 'Main Screen',
     },
   }
 );
