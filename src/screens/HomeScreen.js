@@ -5,7 +5,7 @@ const HomeScreen = ({navigation}) => {
   
   return (
     <View>
-        <Text style={styles.text}>Kurz React Native</Text>
+        <Text style={styles.text}>React Native</Text>
          
         <Button onPress={ () => navigation.navigate("Components") } title="Go to Components Demo"/>
 
